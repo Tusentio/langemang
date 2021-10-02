@@ -1,0 +1,15 @@
+{
+    "name": "@tusent.io/langemang",
+    "version": "1.1.0",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Tusentio/langemang.git"
+    },
+    "author": "Keve1227 <killenlillen02@gmail.com>",
+    "license": "UNLICENCED",
+    "bugs": {
+        "url": "https://github.com/Tusentio/langemang/issues"
+    },
+    "homepage": "https://github.com/Tusentio/langemang#readme"
+}
